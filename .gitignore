@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Dataset (DO NOT UPLOAD)
+dataset/images/
+dataset/labels/
+
+# Model weights
+*.pt
+
+# OS
+Thumbs.db
+.DS_Store
